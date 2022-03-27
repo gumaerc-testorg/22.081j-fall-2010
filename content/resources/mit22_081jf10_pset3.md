@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
+parent_uid: 246e85fa-874a-ef91-992e-4b1aec92dc98
 resourcetype: Document
 title: MIT22_081JF10_pset3.pdf
 uid: c6c63a68-18c7-90da-6098-b76865c247cd
