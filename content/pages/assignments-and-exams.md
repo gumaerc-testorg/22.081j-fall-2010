@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the homework assignments, exams with solutions,
+  and details on the term paper required for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Exams
@@ -29,7 +31,7 @@ PROBLEMS
 Problem Set 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset1))
+({{% resource_link ce7b6eca-a5d7-7222-1a69-8e8fc4467ff1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +40,7 @@ Problem Set 1
 Problem Set 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset2))
+({{% resource_link 70085153-22a2-8ed6-f2a7-a9fdb6864708 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +49,7 @@ Problem Set 2
 Problem Set 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset3))
+({{% resource_link c6c63a68-18c7-90da-6098-b76865c247cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +58,7 @@ Problem Set 3
 Problem Set 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset4))
+({{% resource_link 1e1aa060-3fff-2ed6-d2a4-09aa9ffcc370 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +67,7 @@ Problem Set 4
 Problem Set 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset5))
+({{% resource_link bd000c2f-83db-0cd3-77f1-2ff8c395aa15 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +76,7 @@ Problem Set 5
 Problem Set 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset6))
+({{% resource_link 369a733a-b1b8-9e2a-c5f9-227469059213 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +85,7 @@ Problem Set 6
 Problem Set 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset7))
+({{% resource_link eed15af2-6095-2533-e378-3ac1d660f333 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +94,7 @@ Problem Set 7
 Problem Set 8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset8))
+({{% resource_link 737e29b4-cd06-38fc-08ca-4aaea81e7481 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,10 +127,10 @@ SOLUTIONS
 Take-home exam 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm1))
+({{% resource_link 9b4ffa87-84b1-d7d5-229f-48d352a2abb6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm1_sol))
+({{% resource_link dbd59023-c32a-16e2-55cf-1f12e3889647 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,10 +139,10 @@ Take-home exam 1
 Take-home exam 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm2))
+({{% resource_link b3d43bf1-72b2-5572-ebd9-d3dac25a21c2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm2_sol))
+({{% resource_link a711d39d-853e-85a0-badb-c3f5d181a09c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +151,7 @@ Take-home exam 2
 Final exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_081jf10_finalexam))
+({{% resource_link 6bebe69d-0408-e9ee-a940-95244c45fcd7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
