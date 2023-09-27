@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2010",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -84,6 +85,7 @@
     "Written Assignments",
     "Problem Sets"
   ],
-  "site_uid": "4d564e81-c9ee-425d-a0d8-7a5b11207826",
+  "site_uid": "a39b5314-acb2-47cc-a0ea-3ad2ea421afd",
+  "site_short_id": "22.081j-fall-2010",
   "title": "Course Metadata"
 }
