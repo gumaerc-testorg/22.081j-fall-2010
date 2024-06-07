@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to solar reflector array.
 file: /courses/22-081j-introduction-to-sustainable-energy-fall-2010/6bebe69d0408e9eea94095244c45fcd7_MIT22_081JF10_finalexam.pdf
+file_size: 160271
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
