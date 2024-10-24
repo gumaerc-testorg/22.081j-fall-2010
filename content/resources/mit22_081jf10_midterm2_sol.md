@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to nuclear power economy. '
-file: /courses/22-081j-introduction-to-sustainable-energy-fall-2010/a711d39d853e85a0badbc3f5d181a09c_MIT22_081JF10_midterm2_sol.pdf
+file: /ol-ocw-studio-app/courses/22-081j-introduction-to-sustainable-energy-fall-2010/a711d39d853e85a0badbc3f5d181a09c_MIT22_081JF10_midterm2_sol.pdf
 file_size: 130592
 file_type: application/pdf
 learning_resource_types: []
