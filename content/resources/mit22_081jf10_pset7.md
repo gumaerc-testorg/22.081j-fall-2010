@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to geothermal in US,
   trade offs in geothermal, and new solar generation prospects.
-file: /ol-ocw-studio-app/courses/22-081j-introduction-to-sustainable-energy-fall-2010/eed15af260952533e3783ac1d660f333_MIT22_081JF10_pset7.pdf
+file: /courses/22-081j-introduction-to-sustainable-energy-fall-2010/eed15af260952533e3783ac1d660f333_MIT22_081JF10_pset7.pdf
 file_size: 92199
 file_type: application/pdf
 learning_resource_types: []
