@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to process economics,
   and geothermal heat pump system.
-file: /ol-ocw-studio-app/courses/22-081j-introduction-to-sustainable-energy-fall-2010/1e1aa0603fff2ed6d2a409aa9ffcc370_MIT22_081JF10_pset4.pdf
+file: /courses/22-081j-introduction-to-sustainable-energy-fall-2010/1e1aa0603fff2ed6d2a409aa9ffcc370_MIT22_081JF10_pset4.pdf
 file_size: 88196
 file_type: application/pdf
 learning_resource_types: []
