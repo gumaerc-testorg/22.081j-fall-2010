@@ -37,7 +37,7 @@ Overview of energy use and related issues
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "60c3000e-f944-4596-aef0-85bdbbf0580f" "Ronald Prinn" %}}, MIT Earth, Atmospheric, and Planetary Sciences
+[Ronald Prinn](http://web.mit.edu/rprinn/), MIT Earth, Atmospheric, and Planetary Sciences
 {{< tdclose >}}{{< tdopen >}}
 
 "Climate Change: Science, Economics, and Policy."
@@ -179,7 +179,7 @@ Problem Set 4 posted
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9b
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "c9d42639-b2d7-450e-9a17-2af56184e9e7" "Robert Stavins" %}}, Harvard Kennedy School of Government
+[Robert Stavins](https://www.hks.harvard.edu/faculty/robert-stavins), Harvard Kennedy School of Government
 {{< tdclose >}}{{< tdopen >}}
 
 "International Climate Change Policy: From Copenhagen to Cancún, and Beyond."
@@ -229,7 +229,7 @@ Cape Wind energy and offshore wind projects
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12b
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "db6d8991-407e-46ef-8a90-c5971ee794ec" "Ernest Moniz" %}}, MIT Physics / Engineering Systems Division
+[Ernest Moniz](http://web.mit.edu/physics/people/faculty/moniz_ernest.html), MIT Physics / Engineering Systems Division
 {{< tdclose >}}{{< tdopen >}}
 Current energy policy
 {{< tdclose >}}{{< tdopen >}}
@@ -237,7 +237,7 @@ Current energy policy
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13a
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a4fdd991-0acb-4944-ab3b-bce5e27f4019" "Ralph Gakenheimer" %}}, MIT Urban Studies and Planning
+[Ralph Gakenheimer](http://dusp.mit.edu/faculty/ralph-gakenheimer), MIT Urban Studies and Planning
 {{< tdclose >}}{{< tdopen >}}
 
 "Transport Issues and the Environment in Latin America."
@@ -313,7 +313,7 @@ Problem Set 6 posted
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "975cfd2e-ed58-4167-9bda-d905acc177d2" "Vladimir Bulovic" %}}, MIT Electrical Engineering and Computer Science
+[Vladimir Bulovic](http://www.rle.mit.edu/people/directory/vladimir-bulovic/), MIT Electrical Engineering and Computer Science
 {{< tdclose >}}{{< tdopen >}}
 
 "Capturing Solar Energy."
@@ -395,7 +395,7 @@ Problem Set 8 posted
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21b
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "749fbcb4-6792-4ee5-9b37-d344f81a61b8" "Donald Sadoway" %}}, MIT Materials Science & Engineering
+[Donald Sadoway](https://dmse.mit.edu/faculty/donald-r-sadoway/), MIT Materials Science & Engineering
 {{< tdclose >}}{{< tdopen >}}
 
 "Electrochemical Approaches to Electrical Energy Storage."
@@ -407,7 +407,7 @@ Electrochemical energy conversions
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22a
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "38c15636-45e9-43a3-bbc5-cf94a04e7e63" "Leon Glicksman" %}}, MIT Architecture / Mechanical Engineering
+[Leon Glicksman](http://architecture.mit.edu/people/profiles/prglicks.html), MIT Architecture / Mechanical Engineering
 {{< tdclose >}}{{< tdopen >}}
 
 "The Energy Crisis: A Neglected Solution."
@@ -441,7 +441,7 @@ Term Paper Revisions returned
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24a
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "394e5da8-9d62-4eca-984f-eafd5867a383" "John Reilly" %}}, MIT Sloan School of Management
+[John Reilly](https://globalchange.mit.edu/about-us/personnel/reilly-john), MIT Sloan School of Management
 {{< tdclose >}}{{< tdopen >}}
 
 "Why so little progress on international climate negotiations?"

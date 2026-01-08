@@ -10,7 +10,7 @@ uid: e7a00e10-1594-2743-50ff-a5b52e167aa5
 ---
 Readings are assigned from the course text:
 
-![Buy at MIT Press](/images/mp_logo.gif) Tester, Jefferson W., Elisabeth M. Drake, Michael J. Driscoll, Michael W. Golay, and William A. Peters. {{% resource_link "be82b8ff-52d9-4af7-b726-ec4208304f89" "*Sustainable Energy: Choosing Among Options*" %}}. 2nd edition. MIT Press, 2012. ISBN: 9780262017473.
+![Buy at MIT Press](/images/mp_logo.gif) Tester, Jefferson W., Elisabeth M. Drake, Michael J. Driscoll, Michael W. Golay, and William A. Peters. [*Sustainable Energy: Choosing Among Options*](https://mitpress.mit.edu/9780262017473). 2nd edition. MIT Press, 2012. ISBN: 9780262017473.
 
 Additional readings are listed on the {{% resource_link "87983f9c-4bae-6c3e-715c-01bf63aca0d8" "Related Resources" %}} page. All lecture slides posted below are used with permission of the authors. Many lecture sessions are split in two, with separate lecturers, presentations, and readings for each part.
 
@@ -71,7 +71,7 @@ Chapter 9
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "60c3000e-f944-4596-aef0-85bdbbf0580f" "Ronald Prinn" %}}, MIT Earth, Atmospheric, and Planetary Sciences
+[Ronald Prinn](http://web.mit.edu/rprinn/), MIT Earth, Atmospheric, and Planetary Sciences
 {{< tdclose >}}{{< tdopen >}}
 
 "Climate Change: Science, Economics, and Policy."
@@ -329,7 +329,7 @@ Chapter 3
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9b
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "c9d42639-b2d7-450e-9a17-2af56184e9e7" "Robert Stavins" %}}, Harvard Kennedy School of Government
+[Robert Stavins](https://www.hks.harvard.edu/faculty/robert-stavins), Harvard Kennedy School of Government
 {{< tdclose >}}{{< tdopen >}}
 
 "International Climate Change Policy: From Copenhagen to Cancún, and Beyond."
@@ -409,7 +409,7 @@ Chapter 7
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12b
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "db6d8991-407e-46ef-8a90-c5971ee794ec" "Ernest Moniz" %}}, MIT Physics / Engineering Systems Division
+[Ernest Moniz](http://web.mit.edu/physics/people/faculty/moniz_ernest.html), MIT Physics / Engineering Systems Division
 {{< tdclose >}}{{< tdopen >}}
 Current energy policy
 {{< tdclose >}}{{< tdopen >}}
@@ -419,7 +419,7 @@ Current energy policy
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13a
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "39c23cba-e5bc-4c17-a32e-14e8515a8db1" "Ralph Gakenheimer" %}}, MIT Urban Studies and Planning
+[Ralph Gakenheimer](https://dusp.mit.edu/people/ralph-gakenheimer), MIT Urban Studies and Planning
 {{< tdclose >}}{{< tdopen >}}
 
 "Transport Issues and the Environment in Latin America."
@@ -525,7 +525,7 @@ Chapter 11
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "975cfd2e-ed58-4167-9bda-d905acc177d2" "Vladimir Bulovic" %}}, MIT Electrical Engineering and Computer Science
+[Vladimir Bulovic](http://www.rle.mit.edu/people/directory/vladimir-bulovic/), MIT Electrical Engineering and Computer Science
 {{< tdclose >}}{{< tdopen >}}
 
 "Capturing Solar Energy."
@@ -629,7 +629,7 @@ Chapter 17
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21b
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "749fbcb4-6792-4ee5-9b37-d344f81a61b8" "Donald Sadoway" %}}, MIT Materials Science & Engineering
+[Donald Sadoway](https://dmse.mit.edu/faculty/donald-r-sadoway/), MIT Materials Science & Engineering
 {{< tdclose >}}{{< tdopen >}}
 
 "Electrochemical Approaches to Electrical Energy Storage."
@@ -647,7 +647,7 @@ Electrochemical energy conversions
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22a
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "c2e29f9e-fd19-4802-8d10-4ea1f670df42" "Leon Glicksman" %}}, MIT Architecture / Mechanical Engineering
+[Leon Glicksman](https://meche.mit.edu/people/faculty/glicks@mit.edu), MIT Architecture / Mechanical Engineering
 {{< tdclose >}}{{< tdopen >}}
 
 "The Energy Crisis: A Neglected Solution."
@@ -681,7 +681,7 @@ Recitation 3: Current energy policy / critique (student-led discussion)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24a
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a8aee071-177b-4b52-bb2f-e3c30a239013" "John Reilly" %}}, MIT Sloan School of Management
+[John Reilly](https://mitsloan.mit.edu/faculty/directory/john-m-reilly), MIT Sloan School of Management
 {{< tdclose >}}{{< tdopen >}}
 
 "Why So Little Progress on International Climate Negotiations?"
